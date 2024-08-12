@@ -1,5 +1,6 @@
 # Getting Started with Create React App
 
+![proposed meter](https://github.com/user-attachments/assets/58f335cc-c10f-455f-aef5-518413a373d4)
 ![smartmeter1](https://github.com/user-attachments/assets/dae9d0f1-95df-46d8-96bd-b60a5129d487)
 ![register smartmeter](https://github.com/user-attachments/assets/ba5685b0-3081-44af-a8a9-92d4a81a2f8d)
 
