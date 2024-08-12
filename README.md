@@ -1,5 +1,8 @@
 # Getting Started with Create React App
 
+![smartmeter1](https://github.com/user-attachments/assets/dae9d0f1-95df-46d8-96bd-b60a5129d487)
+![register smartmeter](https://github.com/user-attachments/assets/ba5685b0-3081-44af-a8a9-92d4a81a2f8d)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
